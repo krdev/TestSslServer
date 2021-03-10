@@ -73,7 +73,7 @@
 
 
     <properties>
-        <jetty.project.version>9.4.24.v20191120</jetty.project.version>
+        <jetty.project.version>9.4.38.v20210224</jetty.project.version>
     </properties>
 
 </project>
